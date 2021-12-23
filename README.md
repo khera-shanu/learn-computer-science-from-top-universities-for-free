@@ -16,7 +16,7 @@ Learn Computer Science from top universities for free - An opinionated list
 
 - [Data Structures - UC Berkeley](https://sp21.datastructur.es/)
 
-- [Algorithms - MIT]()
+- [Algorithms - MIT](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 
 - [Computer Architecture - UC Berkeley](https://cs61c.org/fa21/)
 
