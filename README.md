@@ -35,11 +35,11 @@ Learn Computer Science from top universities for free - An opinionated list
 
 - [Complexity theory(Automata) | MIT](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/video-lectures/)
 
-- [Programming language paradigms | Stanford](https://see.stanford.edu/Course/CS107) [YT videos](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
+- [Programming language paradigms | Stanford](https://see.stanford.edu/Course/CS107) and [YT videos](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
 
-- [Functional Programming | University of Nottingham](https://www.youtube.com/watch?v=TdpBqhlgqGI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)[ and This](https://www.youtube.com/watch?v=2u0T7z6O9jM&list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
+- [Functional Programming | University of Nottingham](https://www.youtube.com/watch?v=TdpBqhlgqGI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) and [ This](https://www.youtube.com/watch?v=2u0T7z6O9jM&list=PLF1Z-APd9zK5uFc8FKr_di9bfsYv8-lbc)
 
-- [Information Theory | Stanford](https://www.youtube.com/watch?v=B7bYOSlv9bQ&list=PLv_7iO_xlL0Kz2nU05COpINjU8C0UPICA) [Awesome YT](https://www.youtube.com/watch?v=69-YUSazuic&list=PLbg3ZX2pWlgKDVFNwn9B63UhYJVIerzHL)
+- [Information Theory | Stanford](https://www.youtube.com/watch?v=B7bYOSlv9bQ&list=PLv_7iO_xlL0Kz2nU05COpINjU8C0UPICA) and [Awesome YT](https://www.youtube.com/watch?v=69-YUSazuic&list=PLbg3ZX2pWlgKDVFNwn9B63UhYJVIerzHL)
 
 - [Cryptography | MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 
@@ -70,6 +70,6 @@ Learn Computer Science from top universities for free - An opinionated list
 
 - [Deep learning | CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)
 
-- [Blockchain | Berkeley Decal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)[ And this](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
+- [Blockchain | Berkeley Decal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT) and [ this](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
 
 - [Quantum Computing | CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz)
