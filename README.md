@@ -8,26 +8,28 @@ Learn Computer Science from top universities for free - An opinionated list
 
 - Calculus
 
-  - [18.01 Single Variable Calculus, Fall 2006 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-  - [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-  - [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
+  - [18.01 Single Variable Calculus, Fall 2006 | MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+  - [18.02 Multivariable Calculus, Fall 2007 | MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+  - [18.03 Differential Equations, Spring 2010 | MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
-- [Structure and Interpretation of Computer Programs - UC Berkeley](https://cs61a.org/)
+- [Structure and Interpretation of Computer Programs | UC Berkeley](https://cs61a.org/)
 
-- [Data Structures - UC Berkeley](https://sp21.datastructur.es/)
+- [Data Structures | UC Berkeley](https://sp21.datastructur.es/)
 
-- [Algorithms - MIT](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [Algorithms | MIT](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 
-- [Computer Architecture - UC Berkeley](https://cs61c.org/fa21/)
+- [Computer Architecture | UC Berkeley](https://cs61c.org/fa21/)
 
 - Discrete Mathematics and Probability
   
   - [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) ([Spring 15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm))
-  - [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+  - [Statistics 110 - Probability | Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
   - [STAT 2.1x: Descriptive Statistics | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu56TfFnGlRlH2YpOBWGiYsQD)
   - [STAT 2.2x: Probability | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu57qPZnHm-ie-D7vs9g7U-Cl)
 
-- [Operating Systems and Systems Programming - UC Berkeley](https://cs162.org/)
+- [Operating Systems and Systems Programming | UC Berkeley](https://cs162.org/)
+
+- [Software Engineering | UC Berkeley](https://www.youtube.com/watch?v=LroOlQCln3o&list=PLkFD6_40KJIxCKgzL0uysjsAtfY3JawLS&index=1)
 
 - [Computer Graphics | CMU](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
@@ -73,3 +75,6 @@ Learn Computer Science from top universities for free - An opinionated list
 - [Blockchain | Berkeley Decal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT) and [ this](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
 
 - [Quantum Computing | CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz)
+
+
+[For an extensive list of courses - see this Repo](https://github.com/Developer-Y/cs-video-courses)
