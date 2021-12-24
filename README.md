@@ -1,5 +1,4 @@
-# learn-computer-science-from-top-universities-for-free
-Learn Computer Science from top universities for free - An opinionated list
+# Learn Computer Science from top universities for free - An opinionated list
 
 
 ## Courses in sequence
